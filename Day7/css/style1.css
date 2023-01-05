@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    bottom: 1px;
+    text-align:center;
+    vertical-align: text;
+}
+.box {
+    display: inline-block;
+    background:silver;
+    width: 183px;
+    height: 241px;
+    padding: 15px 30px;
+    border-radius: 20px;
+    transition: all linear 0.3s;
+    font-size: 18px;
+    color: white;
+
+}
+.bri {
+    display: inline-block;
+    background:yellow;
+    width: 155px;
+    height: 203px;
+    margin: auto;
+    padding: 10px 10px;
+    border-radius: 10px;
+    color: ;
+    box-shadow: 10px 10px 10px -5px;
+    transition: all liner 0.3s;
+    
+}

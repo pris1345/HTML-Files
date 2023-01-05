@@ -1,0 +1,57 @@
+ /* m0+p0 */
+ *{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+h1{
+    font-size: 42px;
+}
+P{
+color:red;
+font-size: 30px;
+font-weight: bold;
+}
+#first-paragraph{
+color: green;
+}
+#second-paragraph{
+    color: yellow;
+
+}
+.my-own-class{
+font-size: 20px;
+font-style: italic;
+text-decoration: underline;
+}
+h1{
+    background: rgb(168, 168, 199);
+    color: white;
+    font-size: 50px;
+    text-align:center;
+    text-decoration: underline;
+    text-decoration-color: rgb(222, 13, 13);
+}
+.box1{
+    width: 400px;
+    height: 400px;
+    background: green;
+    font-size: 30px;
+    text-align: center;
+    background-image: linear-gradient(red,green,yellow);
+    background-image: radial-gradient(red,green,yellow,blue);
+    background: url("https://th.bing.com/th/id/OIP.j4Gx4sK2qtSzUpTcDkqk-gHaEK?pid=ImgDet&rs=1");
+    background-size: cover;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.box1{
+    color:rgb(230, 219, 219);
+}
+ .box1 h5{
+    color: white;
+ }
+/* selector:{
+    property: value,
+    color: red
+} */

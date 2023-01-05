@@ -1,0 +1,56 @@
+*{
+    padding: 50px;
+    text-align: left;
+    font-style: italic;
+    
+    
+}
+
+.main-box{
+    background-color: blue;
+    width: 800px;
+    height: 700px;
+
+}
+.my-box{
+    background-color: black;
+    width: 700px;
+    height: 600px;
+    margin: auto;
+}
+.con{
+    background-color: rgb(217, 19, 19);
+    width: 600px;
+    height: 500px;
+    margin: auto; 
+}
+.gon{
+    background-color: rgb(132, 247, 16);
+    width: 500px;
+    height: 400px;
+    margin: auto;
+}
+.kas{
+    background-color: brown;
+    width: 400px;
+    height: 300px;
+    margin: auto;
+}
+.nar{
+    background-color: rgb(13, 242, 211);
+    width: 300px;
+    height: 200px;
+    margin: auto;
+}
+.min{
+    background-color: violet;
+    width: 200px;
+    height: 100px;
+    margin: auto;
+}
+.sas{
+    background-color: yellow;
+    width: 100px;
+    height: 10px;
+    margin: auto;
+}

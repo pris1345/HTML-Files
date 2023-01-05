@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.simple{
+    width: 400px;
+    height: 200px;
+    background-color: red;
+    border-radius: 20px 0px 0px;
+}
+.circle-box{
+    position: relative; left: 50pxpx;
+    background: blue;
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+}

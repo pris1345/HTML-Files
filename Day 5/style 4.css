@@ -1,0 +1,27 @@
+.ncell-purple{
+    margin-top: 50px;
+    margin-left: 30px;
+height: 100ox;
+width: 180px;
+background-color: purple;
+}
+.ncell-white{
+    background-color: white;
+    height: 64px;
+    width: 144px;
+    margin-top: 90px;
+    position: relative; left: 18px; top: 18px;
+    border-radius: 0px 20px 0px 16px;
+}
+h1{
+    margin-left: 09px;
+    flex-direction: row;
+    position: relative;bottom: 57px; right: 30px;
+    color: purple;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.ncell-white img{
+    position: relative; top: 12px; left: 12px;
+    height: 45px;
+    width: 45px;
+}

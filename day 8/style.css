@@ -1,0 +1,61 @@
+*{
+    margin: auto;
+    padding: 0;
+}
+.student{
+    padding: 100px 0;
+    background: violet;
+    min-height: 900px;
+}
+.student .container{
+    
+    width: 1170px;
+    margin: 0 auto;
+
+}
+.student .student-title h4{
+    color: black;
+    font-size: 28px;
+    text-align: center;
+}
+.student .student-title h2{
+    color: rgb(11, 6, 6);
+    font-size: 48px;
+    text-align: center;
+}
+.student-list{
+    display:flex;
+}
+.student-detail{
+    background: white;
+    border-radius: 15px;
+    padding: 10px;
+    overflow: hidden;
+    margin: 0 10px;
+}
+.student-detail img{
+    width: 300px;
+    border-radius: 15px;
+}
+.student-detail h4{
+    text-align: center;
+    font-size: 24px;
+    margin-top: 20px;
+}
+.student-detail span{
+    display: block;
+color: black;
+text-align: center;
+margin-bottom: 15px;
+}
+.student-detail:hover img{
+    transform: scale(1.2);
+}
+.student-image{
+    overflow: hidden;
+}
+.student-image img{
+    width: 100%;
+    border-radius: 15px;
+    transition: all linear 0.3s;
+}

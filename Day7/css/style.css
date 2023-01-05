@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.click-me{
+    padding: 50px;
+}
+h1{
+    background-color: yellow;
+}
+
+.click-me a{
+    display: inline-block;
+    background: red;
+    text-decoration: none;
+    color: white;
+    border: black 4px solid;
+    padding: 15px 30px;
+    border-radius: 30px;
+    font-size: 18px;
+    transition: all linear 0.3s;
+}
+.click-me a:hover{
+    background: rgb(11, 227, 202);
+    color: ;
+    border-color: blue;
+    border-radius: 0;
+    box-shadow: ;
+    box-shadow: 10px 10px 8px 5px black;
+    
+}
+.card-box{
+    width: 100px;
+    background-color: white;
+}
